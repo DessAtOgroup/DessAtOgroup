@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DessAtOgroup
-- 👀 I’m the chief of "Outsourcing Group" //aka flat duck
-- We use 1C:Enterprise to improve our client's bisness.
+- We use 1C:Enterprise and Flutter to improve our client's bisness.
 - 📫 How to reach me shevchukDS@ogroup.pro 
 
 <!---
